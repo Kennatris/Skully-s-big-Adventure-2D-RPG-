@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "project": "Kennatris/Skully-s-big-Adventure-2D-RPG-",
+  "required_paths": [
+    "README.md",
+    "AGENTS.md",
+    "docs/PROJECT_GUIDE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/scripts/check-project-docs.py",
+    ".github/workflows/project-docs.yml"
+  ],
+  "managed_link_files": [
+    "docs/PROJECT_GUIDE.md"
+  ],
+  "scope": "Required documentation and managed links; application, legal, security and live deployment acceptance separate"
+}

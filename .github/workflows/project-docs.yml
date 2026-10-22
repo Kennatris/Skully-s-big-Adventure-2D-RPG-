@@ -1,0 +1,25 @@
+name: Project documentation
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: project-docs-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  documentation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out reviewed source
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6, verified 2026-10-22
+        with:
+          persist-credentials: false
+      - name: Check project documentation
+        run: python3 .github/scripts/check-project-docs.py
