@@ -1,53 +1,53 @@
-# Skully’s Big Adventure – Bildergalerie
+# Skully’s Big Adventure – Galerie
 
-Zwei erhaltene historische Varianten, getrennt beschriftet. Die Aufnahmen der Grafikversion basieren auf Projekt/My2DGame. Nur die ausdrücklich markierte NPC-Dialogszene wurde mit einer getrennten lokalen Aufnahmehilfe gestellt; alle übrigen Bilder stammen aus regulären Läufen der Originalversionen. Die Testbilder stammen aus der unveränderten Root-JAR (SHA-256 de01f94e1203533abc871eb60cfec68f7bf7ebecfb043cbc84bf668ddc6298e9).
+Spielwelt, Gespräche und Kartenereignisse. Für die NPC-Dialogaufnahme wurden Figuren positioniert und die Spielzeit angehalten. Die übrigen Bilder zeigen normale Spielläufe.
 
-## Titelbildschirm – Grafikversion
+## Titelbildschirm
 
-Originaler Stand unter Projekt/My2DGame; Fenstertitel 2D Test.
+Das Hauptmenü des Spiels.
 
-![Titelbildschirm – Grafikversion](media/01-titel.jpg)
+![Titelbildschirm](media/01-titel.jpg)
 
-## Spielwelt – Grafikversion
+## Spielwelt
 
-Kreuzung, Waldkacheln, Herzen und NPC im ausgestalteten Projektstand.
+Waldwege, Spielfigur, NPC und Lebensanzeige.
 
-![Spielwelt – Grafikversion](media/02-spielwelt.jpg)
+![Spielwelt](media/02-spielwelt.jpg)
 
-## Pause – Grafikversion
+## Pause
 
-Pausenansicht in derselben Spielwelt.
+Das Spiel lässt sich mit Escape pausieren.
 
-![Pause – Grafikversion](media/03-pause.jpg)
+![Pause](media/03-pause.jpg)
 
-## Schadensereignis – Grafikversion
+## Schaden
 
-Im regulären Originalspiel erreichtes Ereignis mit Dialog und Lebensverlust.
+Ein Kartenereignis zieht Lebenspunkte ab.
 
-![Schadensereignis – Grafikversion](media/04-schadensereignis.jpg)
+![Schaden](media/04-schadensereignis.jpg)
 
-## Heilereignis – Grafikversion
+## Heilung
 
-Im regulären Originalspiel erreichte Heilung mit Originaldialog.
+Ein Heilereignis stellt die Lebenspunkte wieder her.
 
-![Heilereignis – Grafikversion](media/05-heilung.jpg)
+![Heilung](media/05-heilung.jpg)
 
-## NPC-Dialog – lokale Aufnahmeversion
+## NPC-Gespräch
 
-Originaler NPC-Dialog mit eingefrorener Zeit und für die Aufnahme gesetzten Figurenpositionen. Der Originalrenderer wird verwendet; die Szene ist gestellt.
+Ein Gespräch mit einer Figur in der Spielwelt.
 
-![NPC-Dialog – lokale Aufnahmeversion](media/06-npc-dialog-aufnahmeversion.jpg)
+![NPC-Gespräch](media/06-npc-dialog-aufnahmeversion.jpg)
 
-## Titelbildschirm – jüngerer Teststand
+## Testversion: Titelbildschirm
 
-My2DGame(Test) und Root-JAR; Fenstertitel Skully’s Big Adventure.
+Das Hauptmenü der Testversion.
 
-![Titelbildschirm – jüngerer Teststand](media/07-teststand-titel.jpg)
+![Testversion: Titelbildschirm](media/07-teststand-titel.jpg)
 
-## Spielwelt – jüngerer Teststand
+## Testversion: Spielwelt
 
-Der Teststand verwendet schwarze Platzhalterkacheln; Figuren und Lebensanzeige sind sichtbar.
+Die Testversion verwendet schwarze Platzhalterkacheln.
 
-![Spielwelt – jüngerer Teststand](media/08-teststand-spielwelt.jpg)
+![Testversion: Spielwelt](media/08-teststand-spielwelt.jpg)
 
-Die Bilddateien sind echte, unveränderte Fensteraufnahmen vom 31. Oktober 2026. Keine nachgebauten Spielszenen oder KI-generierten Spielbilder. [Zur Projektübersicht](../README.md). Alle Angaben ohne Gewähr.
+[Projekt und Technik](PROJEKT.md) · [Zur Übersicht](../README.md). Alle Angaben und Downloads ohne Gewähr.
